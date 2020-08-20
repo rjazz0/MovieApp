@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_item_height">275dp</dimen>
+    <dimen name="margin">15dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+</resources>
